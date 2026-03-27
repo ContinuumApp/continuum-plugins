@@ -12,16 +12,9 @@
             "display_name": "TMDB",
             "description": "TMDB metadata provider for Continuum."
           }
-        ],
-        "global_config_schema": [
-          {
-            "key": "connection",
-            "title": "Connection",
-            "description": "TMDB API key.",
-            "json_schema": "{\"type\":\"object\",\"properties\":{\"api_key\":{\"type\":\"string\",\"minLength\":1}},\"required\":[\"api_key\"],\"additionalProperties\":false}"
-          }
         ]
       },
+      "repo_url": "https://github.com/ContinuumApp/continuum-plugin-tmdb",
       "checksums_url": "https://github.com/ContinuumApp/continuum-plugin-tmdb/releases/download/v1.0.0/checksums.txt",
       "binaries": {
         "linux/amd64": {
@@ -47,16 +40,9 @@
             "display_name": "TVDB",
             "description": "TVDB metadata provider for Continuum."
           }
-        ],
-        "global_config_schema": [
-          {
-            "key": "connection",
-            "title": "Connection",
-            "description": "TVDB API key and subscriber PIN.",
-            "json_schema": "{\"type\":\"object\",\"properties\":{\"api_key\":{\"type\":\"string\",\"minLength\":1},\"pin\":{\"type\":\"string\",\"minLength\":1}},\"required\":[\"api_key\",\"pin\"],\"additionalProperties\":false}"
-          }
         ]
       },
+      "repo_url": "https://github.com/ContinuumApp/continuum-plugin-tvdb",
       "checksums_url": "https://github.com/ContinuumApp/continuum-plugin-tvdb/releases/download/v1.0.0/checksums.txt",
       "binaries": {
         "linux/amd64": {
