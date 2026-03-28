@@ -3,7 +3,7 @@
     {
       "manifest": {
         "plugin_id": "continuum.tmdb",
-        "version": "1.1.0",
+        "version": "1.2.0",
         "continuum_api_version": "v1",
         "capabilities": [
           {
@@ -15,23 +15,23 @@
         ]
       },
       "repo_url": "https://github.com/ContinuumApp/continuum-plugin-tmdb",
-      "checksums_url": "https://github.com/ContinuumApp/continuum-plugin-tmdb/releases/download/v1.1.0/checksums.txt",
+      "checksums_url": "https://github.com/ContinuumApp/continuum-plugin-tmdb/releases/download/v1.2.0/checksums.txt",
       "binaries": {
         "darwin/arm64": {
-          "url": "https://github.com/ContinuumApp/continuum-plugin-tmdb/releases/download/v1.1.0/plugin-darwin-arm64"
+          "url": "https://github.com/ContinuumApp/continuum-plugin-tmdb/releases/download/v1.2.0/plugin-darwin-arm64"
         },
         "linux/amd64": {
-          "url": "https://github.com/ContinuumApp/continuum-plugin-tmdb/releases/download/v1.1.0/plugin-linux-amd64"
+          "url": "https://github.com/ContinuumApp/continuum-plugin-tmdb/releases/download/v1.2.0/plugin-linux-amd64"
         },
         "linux/arm64": {
-          "url": "https://github.com/ContinuumApp/continuum-plugin-tmdb/releases/download/v1.1.0/plugin-linux-arm64"
+          "url": "https://github.com/ContinuumApp/continuum-plugin-tmdb/releases/download/v1.2.0/plugin-linux-arm64"
         }
       }
     },
     {
       "manifest": {
         "plugin_id": "continuum.tvdb",
-        "version": "1.1.0",
+        "version": "1.2.0",
         "continuum_api_version": "v1",
         "capabilities": [
           {
@@ -43,16 +43,16 @@
         ]
       },
       "repo_url": "https://github.com/ContinuumApp/continuum-plugin-tvdb",
-      "checksums_url": "https://github.com/ContinuumApp/continuum-plugin-tvdb/releases/download/v1.1.0/checksums.txt",
+      "checksums_url": "https://github.com/ContinuumApp/continuum-plugin-tvdb/releases/download/v1.2.0/checksums.txt",
       "binaries": {
         "darwin/arm64": {
-          "url": "https://github.com/ContinuumApp/continuum-plugin-tvdb/releases/download/v1.1.0/plugin-darwin-arm64"
+          "url": "https://github.com/ContinuumApp/continuum-plugin-tvdb/releases/download/v1.2.0/plugin-darwin-arm64"
         },
         "linux/amd64": {
-          "url": "https://github.com/ContinuumApp/continuum-plugin-tvdb/releases/download/v1.1.0/plugin-linux-amd64"
+          "url": "https://github.com/ContinuumApp/continuum-plugin-tvdb/releases/download/v1.2.0/plugin-linux-amd64"
         },
         "linux/arm64": {
-          "url": "https://github.com/ContinuumApp/continuum-plugin-tvdb/releases/download/v1.1.0/plugin-linux-arm64"
+          "url": "https://github.com/ContinuumApp/continuum-plugin-tvdb/releases/download/v1.2.0/plugin-linux-arm64"
         }
       }
     }
